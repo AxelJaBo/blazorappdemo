@@ -209,6 +209,45 @@
         }
       },
       {
+        "HashCode": -1979047923,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Pages.Products",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Products"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products",
+          "Common.TypeNameIdentifier": "Products",
+          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -962322662,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Pages.Products",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Pages.Products"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products",
+          "Common.TypeNameIdentifier": "Products",
+          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -1057941184,
         "Kind": "Components.Component",
         "Name": "blazorappdemo.Shared.SurveyPrompt",
@@ -20817,6 +20856,11 @@
     {
       "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\ModuleTitle.razor",
       "TargetPath": "Shared\\ModuleTitle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Pages\\Products.razor",
+      "TargetPath": "Pages\\Products.razor",
       "FileKind": "component"
     }
   ]

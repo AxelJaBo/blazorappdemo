@@ -2,7 +2,7 @@ using System.Net.Http.Json;
 using System.Text.Json;
 namespace blazorappdemo;
 
-public class ProductService
+public class ProductService : IProductService
 {
     private readonly HttpClient client;
     private readonly JsonSerializerOptions options;
@@ -15,7 +15,12 @@ public class ProductService
     public async Task<List<Product>?> Get()
     {
         var response = await client.GetAsync("/products");
-        return await JsonSerializer.DeserializeAsync<List<Product>>(await response.Content.ReadAsStreamAsync());
+        var content = await response.Content.ReadAsStringAsync();
+        if(!response.IsSuccessStatusCode)
+        {
+            throw new ApplicationException(content);
+        }
+        return JsonSerializer.Deserialize<List<Product>>(content, options);
     }
 
     public async Task Add(Product product){
@@ -35,4 +40,11 @@ public class ProductService
             throw new ApplicationException(content);
         } 
     }
+}
+
+public interface IProductService
+{
+    Task<List<Product>?> Get();
+    Task Add(Product product);
+    Task Delete(int productId);
 }
