@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HzLgv752NDsMG7n+O7R/OJIkP+A7QXsmoNsvs03mTuE=",
+  "Hash": "W47Re8HyYf8xYjdjyyQJY/Gp4Ei9Ym2X6C7mpfn8rkY=",
   "Source": "blazorappdemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -6900,6 +6900,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazorappdemo.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\wwwroot\\appsettings.json",
+      "SourceId": "blazorappdemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\wwwroot\\css\\app.css",
