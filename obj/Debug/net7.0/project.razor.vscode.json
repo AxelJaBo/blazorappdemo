@@ -423,6 +423,71 @@
         }
       },
       {
+        "HashCode": 1359147616,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.ModuleTitle",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Shared.ModuleTitle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModuleTitle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "DisplayName": "string blazorappdemo.Shared.ModuleTitle.Title",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.ModuleTitle",
+          "Common.TypeNameIdentifier": "ModuleTitle",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1451776360,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Shared.ModuleTitle",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Shared.ModuleTitle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Shared.ModuleTitle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "DisplayName": "string blazorappdemo.Shared.ModuleTitle.Title",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Shared.ModuleTitle",
+          "Common.TypeNameIdentifier": "ModuleTitle",
+          "Common.TypeNamespace": "blazorappdemo.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -1711122675,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
@@ -20747,6 +20812,11 @@
     {
       "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\ModuleTitle.razor",
+      "TargetPath": "Shared\\ModuleTitle.razor",
       "FileKind": "component"
     }
   ]
