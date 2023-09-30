@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = blazorappdemo
 build_property.RootNamespace = blazorappdemo
-build_property.ProjectDir = c:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\
+build_property.ProjectDir = C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo
+build_property.MSBuildProjectDirectory = C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/App.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Counter.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/FetchData.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Index.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Products/AddProduct.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Products/AddProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQWRkUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/ModuleTitle.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/ModuleTitle.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZHVsZVRpdGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/SurveyPrompt.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/_Imports.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Products/Products.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Pages/Products/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5t29arfb9z
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/MainLayout.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rnook4l0vg
 
-[c:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/NavMenu.razor]
+[C:/Users/CUSTOM/Desktop/docu/PLATZI/Curso de Aplicaciones Web con Blazor WebAssembly NET/blazorappdemo/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t6sqovoj5n
