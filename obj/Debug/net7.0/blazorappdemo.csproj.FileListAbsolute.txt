@@ -826,4 +826,4 @@ C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAsse
 C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\obj\Debug\net7.0\refint\blazorappdemo.dll
 C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\obj\Debug\net7.0\blazorappdemo.pdb
 C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\obj\Debug\net7.0\ref\blazorappdemo.dll
-C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\obj\Debug\net7.0\scopedcss\Pages\Products.razor.rz.scp.css
+C:\Users\CUSTOM\Desktop\docu\PLATZI\Curso de Aplicaciones Web con Blazor WebAssembly NET\blazorappdemo\obj\Debug\net7.0\scopedcss\Pages\Products\Products.razor.rz.scp.css
