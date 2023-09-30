@@ -209,11 +209,11 @@
         }
       },
       {
-        "HashCode": 757890633,
+        "HashCode": 574481047,
         "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Products",
+        "Name": "blazorappdemo.Pages.Products.Products",
         "AssemblyName": "blazorappdemo",
-        "DisplayName": "blazorappdemo.Pages.Products",
+        "DisplayName": "blazorappdemo.Pages.Products.Products",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -221,28 +221,67 @@
           }
         ],
         "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Products",
+          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
           "Common.TypeNameIdentifier": "Products",
-          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -931978715,
+        "HashCode": -2067851638,
         "Kind": "Components.Component",
-        "Name": "blazorappdemo.Pages.Products",
+        "Name": "blazorappdemo.Pages.Products.Products",
         "AssemblyName": "blazorappdemo",
-        "DisplayName": "blazorappdemo.Pages.Products",
+        "DisplayName": "blazorappdemo.Pages.Products.Products",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazorappdemo.Pages.Products"
+            "TagName": "blazorappdemo.Pages.Products.Products"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "blazorappdemo.Pages.Products",
+          "Common.TypeName": "blazorappdemo.Pages.Products.Products",
           "Common.TypeNameIdentifier": "Products",
-          "Common.TypeNamespace": "blazorappdemo.Pages",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1263970925,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products.AddProduct",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Pages.Products.AddProduct",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddProduct"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products.AddProduct",
+          "Common.TypeNameIdentifier": "AddProduct",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 738886451,
+        "Kind": "Components.Component",
+        "Name": "blazorappdemo.Pages.Products.AddProduct",
+        "AssemblyName": "blazorappdemo",
+        "DisplayName": "blazorappdemo.Pages.Products.AddProduct",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorappdemo.Pages.Products.AddProduct"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazorappdemo.Pages.Products.AddProduct",
+          "Common.TypeNameIdentifier": "AddProduct",
+          "Common.TypeNamespace": "blazorappdemo.Pages.Products",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
@@ -20834,11 +20873,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Pages\\Products.razor",
-      "TargetPath": "Pages\\Products.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\ModuleTitle.razor",
       "TargetPath": "Shared\\ModuleTitle.razor",
       "FileKind": "component"
@@ -20854,6 +20888,11 @@
       "FileKind": "componentImport"
     },
     {
+      "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Pages\\Products\\Products.razor",
+      "TargetPath": "Pages\\Products\\Products.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -20861,6 +20900,11 @@
     {
       "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de Aplicaciones Web con Blazor WebAssembly NET\\blazorappdemo\\Pages\\Products\\AddProduct.razor",
+      "TargetPath": "Pages\\Products\\AddProduct.razor",
       "FileKind": "component"
     }
   ]
