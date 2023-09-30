@@ -5276,6 +5276,715 @@
         }
       },
       {
+        "HashCode": 1601602135,
+        "Kind": "Components.Component",
+        "Name": "Blazored.Toast.BlazoredToast",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazoredToast"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ToastId",
+            "TypeName": "System.Guid",
+            "DisplayName": "System.Guid Blazored.Toast.BlazoredToast.ToastId",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "ToastId",
+              "Common.GloballyQualifiedTypeName": "global::System.Guid"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Settings",
+            "TypeName": "Blazored.Toast.Configuration.ToastSettings",
+            "DisplayName": "Blazored.Toast.Configuration.ToastSettings Blazored.Toast.BlazoredToast.Settings",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Settings",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.ToastSettings"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Level",
+            "TypeName": "Blazored.Toast.Services.ToastLevel?",
+            "DisplayName": "Blazored.Toast.Services.ToastLevel? Blazored.Toast.BlazoredToast.Level",
+            "Metadata": {
+              "Common.PropertyName": "Level",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Services.ToastLevel?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Message",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToast.Message",
+            "Metadata": {
+              "Common.PropertyName": "Message",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToast.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1233681096,
+        "Kind": "Components.Component",
+        "Name": "Blazored.Toast.BlazoredToast",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazored.Toast.BlazoredToast"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ToastId",
+            "TypeName": "System.Guid",
+            "DisplayName": "System.Guid Blazored.Toast.BlazoredToast.ToastId",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "ToastId",
+              "Common.GloballyQualifiedTypeName": "global::System.Guid"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Settings",
+            "TypeName": "Blazored.Toast.Configuration.ToastSettings",
+            "DisplayName": "Blazored.Toast.Configuration.ToastSettings Blazored.Toast.BlazoredToast.Settings",
+            "IsEditorRequired": true,
+            "Metadata": {
+              "Common.PropertyName": "Settings",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.ToastSettings"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Level",
+            "TypeName": "Blazored.Toast.Services.ToastLevel?",
+            "DisplayName": "Blazored.Toast.Services.ToastLevel? Blazored.Toast.BlazoredToast.Level",
+            "Metadata": {
+              "Common.PropertyName": "Level",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Services.ToastLevel?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Message",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToast.Message",
+            "Metadata": {
+              "Common.PropertyName": "Message",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToast.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 314908405,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToast.Message",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast.Message",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Message",
+            "ParentTag": "BlazoredToast"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast.Message",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -350840102,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToast.Message",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast.Message",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Message",
+            "ParentTag": "Blazored.Toast.BlazoredToast"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast.Message",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 87366520,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToast.ChildContent",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazoredToast"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast.ChildContent",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -2119024352,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToast.ChildContent",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToast.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Blazored.Toast.BlazoredToast"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToast.ChildContent",
+          "Common.TypeNameIdentifier": "BlazoredToast",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 296831627,
+        "Kind": "Components.Component",
+        "Name": "Blazored.Toast.BlazoredToasts",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToasts",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazoredToasts"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IconType",
+            "TypeName": "Blazored.Toast.Configuration.IconType",
+            "IsEnum": true,
+            "DisplayName": "Blazored.Toast.Configuration.IconType Blazored.Toast.BlazoredToasts.IconType",
+            "Metadata": {
+              "Common.PropertyName": "IconType",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.IconType"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InfoClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.InfoClass",
+            "Metadata": {
+              "Common.PropertyName": "InfoClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InfoIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.InfoIcon",
+            "Metadata": {
+              "Common.PropertyName": "InfoIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SuccessClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.SuccessClass",
+            "Metadata": {
+              "Common.PropertyName": "SuccessClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SuccessIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.SuccessIcon",
+            "Metadata": {
+              "Common.PropertyName": "SuccessIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "WarningClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.WarningClass",
+            "Metadata": {
+              "Common.PropertyName": "WarningClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "WarningIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.WarningIcon",
+            "Metadata": {
+              "Common.PropertyName": "WarningIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ErrorClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.ErrorClass",
+            "Metadata": {
+              "Common.PropertyName": "ErrorClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ErrorIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.ErrorIcon",
+            "Metadata": {
+              "Common.PropertyName": "ErrorIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Position",
+            "TypeName": "Blazored.Toast.Configuration.ToastPosition",
+            "IsEnum": true,
+            "DisplayName": "Blazored.Toast.Configuration.ToastPosition Blazored.Toast.BlazoredToasts.Position",
+            "Metadata": {
+              "Common.PropertyName": "Position",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.ToastPosition"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Timeout",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.Timeout",
+            "Metadata": {
+              "Common.PropertyName": "Timeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "MaxToastCount",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.MaxToastCount",
+            "Metadata": {
+              "Common.PropertyName": "MaxToastCount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "RemoveToastsOnNavigation",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.RemoveToastsOnNavigation",
+            "Metadata": {
+              "Common.PropertyName": "RemoveToastsOnNavigation",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ShowProgressBar",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.ShowProgressBar",
+            "Metadata": {
+              "Common.PropertyName": "ShowProgressBar",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CloseButtonContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToasts.CloseButtonContent",
+            "Metadata": {
+              "Common.PropertyName": "CloseButtonContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ShowCloseButton",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.ShowCloseButton",
+            "Metadata": {
+              "Common.PropertyName": "ShowCloseButton",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableTimeout",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.DisableTimeout",
+            "Metadata": {
+              "Common.PropertyName": "DisableTimeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PauseProgressOnHover",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.PauseProgressOnHover",
+            "Metadata": {
+              "Common.PropertyName": "PauseProgressOnHover",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ExtendedTimeout",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.ExtendedTimeout",
+            "Metadata": {
+              "Common.PropertyName": "ExtendedTimeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToasts",
+          "Common.TypeNameIdentifier": "BlazoredToasts",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -466349151,
+        "Kind": "Components.Component",
+        "Name": "Blazored.Toast.BlazoredToasts",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToasts",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazored.Toast.BlazoredToasts"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IconType",
+            "TypeName": "Blazored.Toast.Configuration.IconType",
+            "IsEnum": true,
+            "DisplayName": "Blazored.Toast.Configuration.IconType Blazored.Toast.BlazoredToasts.IconType",
+            "Metadata": {
+              "Common.PropertyName": "IconType",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.IconType"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InfoClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.InfoClass",
+            "Metadata": {
+              "Common.PropertyName": "InfoClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InfoIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.InfoIcon",
+            "Metadata": {
+              "Common.PropertyName": "InfoIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SuccessClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.SuccessClass",
+            "Metadata": {
+              "Common.PropertyName": "SuccessClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SuccessIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.SuccessIcon",
+            "Metadata": {
+              "Common.PropertyName": "SuccessIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "WarningClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.WarningClass",
+            "Metadata": {
+              "Common.PropertyName": "WarningClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "WarningIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.WarningIcon",
+            "Metadata": {
+              "Common.PropertyName": "WarningIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ErrorClass",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.ErrorClass",
+            "Metadata": {
+              "Common.PropertyName": "ErrorClass",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ErrorIcon",
+            "TypeName": "System.String",
+            "DisplayName": "string Blazored.Toast.BlazoredToasts.ErrorIcon",
+            "Metadata": {
+              "Common.PropertyName": "ErrorIcon",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Position",
+            "TypeName": "Blazored.Toast.Configuration.ToastPosition",
+            "IsEnum": true,
+            "DisplayName": "Blazored.Toast.Configuration.ToastPosition Blazored.Toast.BlazoredToasts.Position",
+            "Metadata": {
+              "Common.PropertyName": "Position",
+              "Common.GloballyQualifiedTypeName": "global::Blazored.Toast.Configuration.ToastPosition"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Timeout",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.Timeout",
+            "Metadata": {
+              "Common.PropertyName": "Timeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "MaxToastCount",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.MaxToastCount",
+            "Metadata": {
+              "Common.PropertyName": "MaxToastCount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "RemoveToastsOnNavigation",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.RemoveToastsOnNavigation",
+            "Metadata": {
+              "Common.PropertyName": "RemoveToastsOnNavigation",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ShowProgressBar",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.ShowProgressBar",
+            "Metadata": {
+              "Common.PropertyName": "ShowProgressBar",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CloseButtonContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment Blazored.Toast.BlazoredToasts.CloseButtonContent",
+            "Metadata": {
+              "Common.PropertyName": "CloseButtonContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ShowCloseButton",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.ShowCloseButton",
+            "Metadata": {
+              "Common.PropertyName": "ShowCloseButton",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableTimeout",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.DisableTimeout",
+            "Metadata": {
+              "Common.PropertyName": "DisableTimeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PauseProgressOnHover",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool Blazored.Toast.BlazoredToasts.PauseProgressOnHover",
+            "Metadata": {
+              "Common.PropertyName": "PauseProgressOnHover",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ExtendedTimeout",
+            "TypeName": "System.Int32",
+            "DisplayName": "int Blazored.Toast.BlazoredToasts.ExtendedTimeout",
+            "Metadata": {
+              "Common.PropertyName": "ExtendedTimeout",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToasts",
+          "Common.TypeNameIdentifier": "BlazoredToasts",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1709907603,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CloseButtonContent",
+            "ParentTag": "BlazoredToasts"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+          "Common.TypeNameIdentifier": "BlazoredToasts",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1670602415,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+        "AssemblyName": "Blazored.Toast",
+        "DisplayName": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CloseButtonContent",
+            "ParentTag": "Blazored.Toast.BlazoredToasts"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Blazored.Toast.BlazoredToasts.CloseButtonContent",
+          "Common.TypeNameIdentifier": "BlazoredToasts",
+          "Common.TypeNamespace": "Blazored.Toast",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
         "HashCode": 2032494469,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
